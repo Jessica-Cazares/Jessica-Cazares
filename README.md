@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jessica-Cazares
+- 👋 Hi, I’m Jessica
 - 👀 I’m interested in leveraging data analysis to drive impactful decisions and improve business processes. 
 - 🌱 I’m currently learning advanced data analysis techniques, focusing on BigQuery-SQL, Python in Google Colab, Power BI, Looker Studio, and Google Sheets.
 - 💞️ I’m looking to collaborate on data-driven projects that require a keen eye for detail and a strong foundation in statistical models.
